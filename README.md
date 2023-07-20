@@ -43,6 +43,6 @@ Years: [number_of_years]
 
 To ensure accurate and meaningful results, please adhere to the following requirements:
 
-- The starting population size should be greater than or equal to 9, as starting with fewer than 9 llamas will lead to stagnant population growth.
+- The starting population size should be greater than or equal to 9, as starting with fewer than 9 entities will lead to stagnant population growth.
 
-- The ending population size should be greater than or equal to the starting population size, as the goal is to have the population of llamas grow.
+- The ending population size should be greater than or equal to the starting population size, as the goal is to have the population of entities grow.
